@@ -1,3 +1,7 @@
+body {
+    background-image: linear-gradient(to right, #0963af, #0860a9, #075ca4, #06599e, #055699);
+}
+
 h1 {
-    color: red;
+    color: blanchedalmond;
 }
